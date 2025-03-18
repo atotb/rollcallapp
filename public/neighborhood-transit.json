@@ -1,0 +1,29 @@
+{
+    "stationName": "Houston Heights Hub",
+    "fetchTime": "2025-03-18T09:00:00Z",
+    "bikeCorridors": [
+        {
+            "route": "Heights Hike & Bike Trail",
+            "bestStop": {
+                "stopName": "11th & Nicholson (WB)",
+                "bus": "40",
+                "minutesToArrival": 7,
+                "bikeTime": 3
+            },
+            "alternativeStops": [
+                {
+                    "stopName": "7th & Heights Blvd (SB)",
+                    "bus": "56",
+                    "minutesToArrival": 14,
+                    "bikeTime": 5
+                },
+                {
+                    "stopName": "15th & Shepherd/Durham (NB)",
+                    "bus": "27",
+                    "minutesToArrival": 18,
+                    "bikeTime": 6
+                }
+            ]
+        }
+    ]
+}
